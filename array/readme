@@ -1,0 +1,29 @@
+// # data structure  =  ek structure hai -> data ko proper store karne ka -> retrieve karne hai -> or kuch operations perform karwane ko
+
+
+// Array is linear data strcture .which stores multiple values in one level and continous in the memory and access elements through indexes.
+
+
+
+
+// In js array are dynamic 
+
+
+// to create blank array 
+
+// let arr =  new Array(4)
+
+
+
+// questions
+
+
+// max element in the array 
+// second max element in the array
+// reverse the array
+   // with extra space
+   // without extra space
+
+//All zero on the left side and one at the right side.
+//move all the  negative elements on the left side ad positive elements on the right side o(n)
+
